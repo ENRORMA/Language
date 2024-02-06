@@ -1,7 +1,7 @@
 Language = input("Language: ")
 
 match Language:
-	case "Gnglish":
+	case "English":
 		from po.English import *
 	case "German":
 		from po.German import *
