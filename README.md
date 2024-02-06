@@ -1,1 +1,1 @@
-#Example code for basic Multi Language support
+# Example code for basic Multi Language support
